@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=SHIVRAJ%20BHILARE&fontSize=50&fontColor=A78BFA&animation=fadeIn&fontAlignY=35&desc=%5B%20THE%20SYSTEM%20HAS%20RECOGNIZED%20A%20NEW%20PLAYER%20%5D&descAlignY=58&descSize=18&descColor=8B5CF6"/>
+<img src="./system_banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=CLASS%3A+Linux+System+Administrator;CLASS%3A+Network+Engineer;TITLE%3A+The+Automator;STATUS%3A+Currently+Leveling+Up+in+Cybersecurity" />
 
