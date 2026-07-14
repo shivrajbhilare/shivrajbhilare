@@ -1,169 +1,165 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Shivraj%20Bhilare&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Linux%20System%20Administrator%20%7C%20Network%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,25&height=250&section=header&text=Shivraj%20Bhilare&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=root@shivraj:~$%20whoami%20%3E%3E%20Linux%20SysAdmin%20|%20Network%20Engineer%20|%20Security%20Enthusiast&descAlignY=58&descSize=16&descColor=B5B5B5"/>
 
-<a href="https://www.linkedin.com/in/shivraj-bhilare-">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:shivrajbhilare5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="tel:+919529238860">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/shivraj-bhilare-"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/></a>
+<a href="mailto:shivrajbhilare5@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C"/></a>
+<a href="tel:+919529238860"><img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF9C"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&width=800&height=100&lines=RHEL+9%2F10+Linux+Administration;CCNA+%7C+AWS+%7C+CEH+v14+%3A%3A+Cybersecurity+in+progress;Automation-first+mindset+%7C+Incident+Response" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=850&lines=%3E+RHEL+9%2F10+Administration+%7C+CCNA+%7C+AWS+%7C+CEH+v14;%3E+Automation-first+%7C+Incident+Response+Fundamentals;%3E+Currently+leveling+up+in+Cybersecurity+%F0%9F%94%90" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00FF9C&labelColor=000000)
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-```yaml
-name: Shivraj Bhilare
-role: Linux System Administrator | Network Engineer
-location: Pune, Maharashtra, India
-education: B.E. Artificial Intelligence & Data Science (CGPA 8.0)
-focus:
-  - RHEL-based Linux Administration (RHCSA aligned)
-  - Networking fundamentals (CCNA)
-  - Cloud fundamentals (AWS)
-  - Offensive security (CEH v14) & Cybersecurity (learning)
-mindset: "automate everything, secure everything"
+## `$ cat about_me.txt`
+
+```bash
+> Entry-level Linux System Administrator & Network Engineer
+> Strong hands-on experience in RHEL-based Linux, CCNA networking, and troubleshooting
+> Skilled in user management, permissions, LVM, services, firewalls, network config
+> Trained on RHCSA-aligned tasks — automation-first mindset
+> Currently expanding into offensive/defensive security (CEH v14, ongoing learning)
+> Based in Pune, Maharashtra, India 🇮🇳
 ```
 
-- 🔭 Currently strengthening my **Cybersecurity** and **Cloud Security** foundations
-- 🌱 Learning to blend **System Administration + Networking + Security** into one skill set
-- 💻 Also comfortable building full-stack apps with the **MERN** stack + Python/Bash scripting
-- ⚡ Fun fact: I enjoy breaking Linux labs on purpose just to fix them again
+<br/>
 
----
+## `$ ls -la skills/`
 
-### 🛠️ Tech Stack
-
-**Linux & System Administration**
-<p>
-<img src="https://img.shields.io/badge/RHEL_9%2F10-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/SELinux-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/firewalld-4E9A06?style=flat-square"/>
-<img src="https://img.shields.io/badge/LVM-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cron_Jobs-2C5364?style=flat-square"/>
-</p>
-
-**Networking**
-<p>
-<img src="https://img.shields.io/badge/CCNA_200--301-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-2C5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/VLAN_%2F_Inter--VLAN-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/OSPF_%2F_EIGRP_%2F_RIP-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/DNS_%2F_DHCP_%2F_NAT-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-</p>
-
-**Cloud & Security**
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CEH_v14-DA291C?style=flat-square&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Log_%26_Traffic_Analysis-2C5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Incident_Response-black?style=flat-square"/>
-</p>
-
-**Development**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-**Tools**
-<p>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/PuTTY-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 🏆 Certifications
-
-| Certification | Provider |
-|---|---|
-| 🎓 Cisco CCNA (200-301) Network Training | Seven Mentor Pvt Ltd |
-| 🎓 RHCSA (RHEL Aligned) | Seven Mentor Pvt Ltd |
-| 🎓 AWS Cloud Practitioner *(add exact cert name/link here)* | AWS |
-| 🎓 CEH v14 | EC-Council |
-
----
-
-### 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**🩺 Predictive Healthcare Analytics WebApp**
-Health prediction platform with an ML model delivering ~85% prediction accuracy, built with a clean HTML/CSS/Tailwind interface for visualizing results.
+### 🐧 Linux & SysAdmin
+<img src="https://skillicons.dev/icons?i=linux,redhat,bash,vim&theme=dark" />
 
-`HTML` `Tailwind CSS` `Machine Learning`
+`RHEL 9/10` `User & Group Mgmt` `Permissions & ACL` `LVM` `Swap Mgmt`
+`firewalld` `SELinux` `SSH` `Apache/HTTPS` `YUM/DNF` `Flatpak` `Cron`
+
+### 🌐 Networking
+<img src="https://skillicons.dev/icons?i=cisco&theme=dark" />
+
+`TCP/IP` `OSI Model` `IPv4/IPv6` `Subnetting` `VLAN` `Inter-VLAN Routing`
+`Static Routing` `RIP` `OSPF` `EIGRP` `NAT` `ACL` `DHCP` `DNS` `SNMP` `NTP`
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**💻 AwakenCoder — Code Editor**
-Browser-based code editor with real-time compilation via the Judge0 API, syntax highlighting, and starter templates — improved dev productivity by 30%.
+### ☁️ Cloud & Security
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 
-`JavaScript` `Judge0 API` `Web Editor`
+`AWS Fundamentals` `CEH v14` `Log & Traffic Analysis`
+`Security Gap Identification` `Incident Investigation Workflow`
+
+### 💻 Development
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,python,mongodb,mysql,tailwind,git,github&theme=dark" />
+
+`React` `JavaScript` `Node.js` `Express` `Python` `Bash`
+`MongoDB` `MySQL` `Tailwind CSS`
 
 </td>
 </tr>
 </table>
 
-> 💡 Add your repo links here, e.g.
-> `[🔗 View Repo](https://github.com/your-username/awakencoder)`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
-
-### 📊 GitHub Stats
+## `$ cat certifications.log`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+| 🎖️ Certification | Issuer | Status |
+|:---|:---|:---:|
+| **Cisco CCNA (200-301)** — Network Training | Seven Mentor Pvt Ltd | ✅ |
+| **RHCSA** (RHEL Aligned) | Seven Mentor Pvt Ltd | ✅ |
+| **CEH v14** | EC-Council | ✅ |
+| **AWS** *(add exact cert name)* | AWS | ✅ |
+
 </div>
 
+<br/>
+
+## `$ ./run_projects.sh`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Predictive Healthcare Analytics
+> ML-powered web app predicting health outcomes with **~85% accuracy**. Clean, responsive UI built to visualize results in real time.
+
+`HTML` `Tailwind CSS` `Machine Learning`
+
+**[🔗 View Repo »](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 AwakenCoder — Code Editor
+> Browser-based code editor with **Judge0 API** integration for real-time multi-language execution. Syntax highlighting + starter templates boosted dev productivity **30%**.
+
+`JavaScript` `Judge0 API`
+
+**[🔗 View Repo »](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `$ top -o stats`
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff&hide_border=true" width="100%"/>
+
 </div>
 
+> ⚠️ Swap **`YOUR_GITHUB_USERNAME`** everywhere above for your real GitHub username, or the cards/badges stay broken.
+
+<br/>
+
+## `$ cat trophies.txt`
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
 </div>
 
-> ⚠️ Replace **`YOUR_GITHUB_USERNAME`** in the stats URLs above with your actual GitHub username so the cards render correctly.
+<br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<sub>⚙️ Snake animation auto-generates once you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to this repo</sub>
+</div>
 
-### 🤝 Let's Connect
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `$ ./contact_me.sh`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shivraj-bhilare-"><img src="https://img.shields.io/badge/-Shivraj_Bhilare-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:shivrajbhilare5@gmail.com"><img src="https://img.shields.io/badge/-shivrajbhilare5@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivraj-bhilare-"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/></a>
+<a href="mailto:shivrajbhilare5@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2c5364&style=flat-square" alt="profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<i>"Automate everything. Secure everything. Break things on purpose — just to fix them better."</i>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,25&height=120&section=footer"/>
