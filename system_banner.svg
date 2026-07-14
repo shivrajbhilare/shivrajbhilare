@@ -1,0 +1,135 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a16"/>
+      <stop offset="50%" stop-color="#14102b"/>
+      <stop offset="100%" stop-color="#0a0a16"/>
+    </linearGradient>
+    <linearGradient id="glowStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6d28d9"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+    <linearGradient id="barFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="particleGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c4b5fd" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- background panel -->
+  <rect x="0" y="0" width="900" height="320" rx="14" fill="url(#bg)"/>
+
+  <!-- animated glowing border -->
+  <rect x="6" y="6" width="888" height="308" rx="12" fill="none"
+        stroke="url(#glowStroke)" stroke-width="2" filter="url(#softGlow)">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner diamonds -->
+  <g fill="#a78bfa" filter="url(#softGlow)">
+    <rect x="16" y="16" width="10" height="10" transform="rotate(45 21 21)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="874" y="16" width="10" height="10" transform="rotate(45 879 21)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="16" y="294" width="10" height="10" transform="rotate(45 21 299)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="874" y="294" width="10" height="10" transform="rotate(45 879 299)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- floating particles -->
+  <circle cx="80" cy="60" r="3" fill="url(#particleGlow)">
+    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="90" r="2.5" fill="url(#particleGlow)">
+    <animate attributeName="cy" values="90;70;90" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="250" r="3" fill="url(#particleGlow)">
+    <animate attributeName="cy" values="250;230;250" dur="3.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="260" r="2.5" fill="url(#particleGlow)">
+    <animate attributeName="cy" values="260;240;260" dur="4.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="4.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- top label: [ SYSTEM ] -->
+  <text x="450" y="46" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="16" letter-spacing="6" fill="#a78bfa" filter="url(#softGlow)">
+    [ SYSTEM ]
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- divider -->
+  <line x1="120" y1="66" x2="780" y2="66" stroke="#6d28d9" stroke-width="1" stroke-opacity="0.5"/>
+
+  <!-- main title -->
+  <text x="450" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="42" font-weight="bold" fill="#f5f3ff" filter="url(#softGlow)">
+    SHIVRAJ BHILARE
+  </text>
+
+  <!-- subtitle -->
+  <text x="450" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="17" fill="#c4b5fd" letter-spacing="1">
+    Linux System Administrator&#160;&#160;·&#160;&#160;Network Engineer&#160;&#160;·&#160;&#160;Security Enthusiast
+  </text>
+
+  <!-- notification line, typing-in effect -->
+  <text x="450" y="182" text-anchor="middle" font-family="'Courier New', monospace"
+        font-size="14" fill="#9ca3ff">
+    <tspan>&gt; New quest available: "Master the Cybersecurity Dungeon"</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- three stat bars -->
+  <g font-family="Georgia, serif" font-size="13" fill="#e5e0ff">
+    <text x="120" y="222">LINUX / SYSADMIN</text>
+    <rect x="120" y="230" width="280" height="8" rx="4" fill="#2a1f4d"/>
+    <rect x="120" y="230" height="8" rx="4" fill="url(#barFill)" filter="url(#softGlow)">
+      <animate attributeName="width" values="0;266;266" dur="2.5s" fill="freeze"/>
+    </rect>
+
+    <text x="120" y="262">NETWORKING (CCNA)</text>
+    <rect x="120" y="270" width="280" height="8" rx="4" fill="#2a1f4d"/>
+    <rect x="120" y="270" height="8" rx="4" fill="url(#barFill)" filter="url(#softGlow)">
+      <animate attributeName="width" values="0;252;252" dur="2.8s" fill="freeze"/>
+    </rect>
+
+    <text x="500" y="222">CLOUD &amp; SECURITY (AWS / CEH)</text>
+    <rect x="500" y="230" width="280" height="8" rx="4" fill="#2a1f4d"/>
+    <rect x="500" y="230" height="8" rx="4" fill="url(#barFill)" filter="url(#softGlow)">
+      <animate attributeName="width" values="0;196;196" dur="3s" fill="freeze"/>
+    </rect>
+
+    <text x="500" y="262">DEVELOPMENT (MERN / PYTHON)</text>
+    <rect x="500" y="270" width="280" height="8" rx="4" fill="#2a1f4d"/>
+    <rect x="500" y="270" height="8" rx="4" fill="url(#barFill)" filter="url(#softGlow)">
+      <animate attributeName="width" values="0;201;201" dur="3.2s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- bottom tag -->
+  <text x="450" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="12"
+        letter-spacing="3" fill="#7c6ba8">
+    STATUS WINDOW CLOSED IN 3... 2... 1...
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
