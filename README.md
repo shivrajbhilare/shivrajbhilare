@@ -36,38 +36,21 @@
 # 💻 About Me
 
 ```yaml
-Name: Shivraj Bhilare
+root@shivraj:~$ profile
 
-Role:
-  Linux System Administrator
+Name        : Shivraj Bhilare
 
-Location:
-  India
+Role        : Linux System Administrator
 
-Current Focus:
-  AWS Cloud
-  Linux Administration
-  Infrastructure Automation
-  DevOps
+Cloud       : AWS
 
-Working With:
-  Ubuntu
-  RHEL
-  Apache
-  WHM/cPanel
-  Webuzo
-  AWS
+Server      : Ubuntu | RHEL
 
-Languages:
-  Python
-  Bash
-  JavaScript
-  C++
+Automation  : Bash | Python
 
-Open To:
-  Cloud Engineering
-  Linux Administration
-  DevOps Opportunities
+Focus       : Cloud Infrastructure
+
+Status      : Available
 ```
 
 ---
