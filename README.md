@@ -1153,3 +1153,197 @@ Bootstrap
 </div>
 
 ---
+
+<!-- ========================================================== -->
+<!--               GITHUB ANALYTICS & ACHIEVEMENTS              -->
+<!-- ========================================================== -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"> GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivrajbhilare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajbhilare&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivrajbhilare&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivrajbhilare&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivrajbhilare&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivrajbhilare&theme=github_dark"/>
+
+</div>
+
+---
+
+# 📊 Repository Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivrajbhilare&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivrajbhilare&theme=github_dark"/>
+
+</div>
+
+---
+
+# 📅 Productivity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivrajbhilare&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 💻 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shivrajbhilare/shivrajbhilare/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** This snake animation will work after you add a GitHub Actions workflow to generate it.
+
+---
+
+# 🚀 Open Source Journey
+
+```text
+Repositories Created        ███████████░░░░░
+
+Commits                     █████████████░░░
+
+Linux Projects              ██████████░░░░░░
+
+AWS Projects                █████████░░░░░░░
+
+Web Development             █████████████░░░
+
+Automation Scripts          ███████████░░░░░
+
+Learning                    ████████████████
+
+Documentation               ██████████████░░
+```
+
+---
+
+# 🎯 Current Learning Progress
+
+| Technology | Progress |
+|------------|----------|
+| Linux Administration | ███████████████████ |
+| AWS Cloud | ████████████████░░ |
+| Networking (CCNA) | ██████████████████ |
+| Bash Scripting | ██████████████░░░ |
+| Python | █████████████░░░░ |
+| React | ███████████████░░ |
+| Node.js | ████████████░░░░ |
+| MongoDB | ███████████░░░░░ |
+| Docker | ███████░░░░░░░░░ |
+| Kubernetes | ███░░░░░░░░░░░░░ |
+| Terraform | ███░░░░░░░░░░░░░ |
+
+---
+
+# 🌍 Areas of Interest
+
+<div align="center">
+
+☁️ Cloud Computing • 🐧 Linux Administration • 🌐 Networking • ⚡ Infrastructure Automation
+
+💻 Full Stack Development • 📊 System Monitoring • 🔐 Server Security • 🚀 DevOps
+
+</div>
+
+---
+
+# 📌 2026 Roadmap
+
+```text
+✅ Linux Administration
+
+✅ Apache
+
+✅ DNS
+
+✅ SSL
+
+✅ Hosting
+
+✅ CCNA
+
+✅ React
+
+✅ Node
+
+✅ MongoDB
+
+🟢 AWS Associate Level
+
+🟢 Docker
+
+🟢 Kubernetes
+
+🟢 Terraform
+
+🟢 Jenkins
+
+🟢 GitHub Actions
+
+🟢 CI/CD Pipelines
+
+🟢 Infrastructure as Code
+
+🟢 Monitoring Stack
+
+🟢 Production Deployments
+```
+
+---
+
+<div align="center">
+
+## ⭐ "Every commit is one step closer to mastery."
+
+</div>
+
+---
