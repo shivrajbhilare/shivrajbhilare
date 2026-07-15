@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:350000,70:7a0000,100:ff0000&text=Shivraj%20Bhilare&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Linux%20System%20Administrator%20%7C%20AWS%20Cloud%20Engineer%20%7C%20&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:350000,70:7a0000,100:ff0000&text=Shivraj%20Bhilare&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Linux%20System%20Administrator%20%7C%20AWS%20Cloud%20Engineer%20%7C%20Network%20Engineer&descAlignY=60"/>
 
 </div>
 
@@ -15,7 +15,7 @@
 
 # Hi 👋 I'm Shivraj Bhilare
 
-### Linux System Administrator • AWS Cloud Engineer 
+### Linux System Administrator • AWS Cloud Engineer • Network Engineer • Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Linux+System+Administrator;AWS+Cloud+Engineer;Network+Engineer+(CCNA);Building+Reliable+Infrastructure;Passionate+About+Cloud+Computing;React+%7C+Node+%7C+Express+%7C+MongoDB;Python+%7C+Bash+Automation;Always+Learning+New+Technologies"/>
 
@@ -484,6 +484,286 @@ MySQL                █████████████░░░░
 ### 🚀 I enjoy building
 
 ☁ Cloud Infrastructure • 🐧 Linux Servers • 🌐 Networking • ⚛ MERN Applications • 🤖 Automation Scripts
+
+</div>
+
+---
+
+<!-- ========================================================== -->
+<!--               EXPERIENCE & CAREER SECTION                  -->
+<!-- ========================================================== -->
+
+# <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="35"> Professional Experience
+
+<div align="center">
+
+## Linux System Administrator
+
+<img src="https://img.shields.io/badge/Current%20Role-Linux%20System%20Administrator-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 🚀 Responsibilities
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 🐧 Linux Administration
+
+- Ubuntu Server Administration
+- RHEL Administration
+- User & Group Management
+- SSH Configuration
+- Permission Management
+- Apache Administration
+- MySQL Administration
+- System Monitoring
+- Backup Management
+- Cron Jobs
+- Server Troubleshooting
+
+</td>
+
+<td width="50%">
+
+### 🌐 Hosting & Infrastructure
+
+- WHM / cPanel
+- Webuzo
+- Website Hosting
+- Domain Management
+- DNS Management
+- Email Hosting
+- SSL Installation
+- Server Migration
+- Performance Optimization
+- Incident Resolution
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ☁ Infrastructure Expertise
+
+```text
+                     Internet
+                          │
+                ───────────────────
+                          │
+                    Domain & DNS
+                          │
+               SSL / HTTPS Security
+                          │
+                  Apache Web Server
+                          │
+              Linux Hosting Environment
+                          │
+      SSH • FTP • SCP • MySQL • Email
+                          │
+                 Monitoring & Backups
+```
+
+---
+
+# 🏆 Professional Highlights
+
+✔ Managed Linux hosting environments using Ubuntu and RHEL
+
+✔ Configured and maintained WHM/cPanel & Webuzo hosting panels
+
+✔ Managed Apache Web Server deployments
+
+✔ Configured DNS Records (A, MX, TXT, SPF, DKIM, DMARC, CNAME)
+
+✔ Installed & Renewed SSL Certificates
+
+✔ Managed MySQL Databases
+
+✔ Configured Email Hosting & SMTP
+
+✔ Troubleshot Email Delivery Issues
+
+✔ Google Workspace Administration
+
+✔ Microsoft 365 Administration
+
+✔ Website Migration
+
+✔ Domain Management
+
+✔ Server Monitoring & Health Checks
+
+✔ Remote Server Administration using SSH
+
+✔ Secure File Transfers using SCP & FTP
+
+✔ Performance Optimization
+
+✔ Backup & Recovery
+
+---
+
+# 📅 Career Timeline
+
+```text
+2019
+│
+├── Diploma in Computer Engineering
+│
+│
+2021
+│
+├── Web Development Internship
+│      Sumago Infotech
+│
+│
+2022
+│
+├── Started B.E. Artificial Intelligence
+│
+│
+2023
+│
+├── Security Analyst Internship
+│      Intrianz Pvt Ltd
+│
+│
+2024
+│
+├── React
+├── Node.js
+├── MongoDB
+├── Full Stack Projects
+│
+│
+2025
+│
+├── Linux Administration
+├── RHCSA Training
+├── CCNA Training
+│
+│
+2026
+│
+├── Linux System Administrator
+├── AWS Cloud Learning
+├── Infrastructure Projects
+│
+└────────────► Cloud Engineer
+```
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| Focus | Status |
+|-------|--------|
+| Linux Administration | ✅ |
+| AWS Cloud | 🚀 |
+| Infrastructure Engineering | 🚀 |
+| Networking | ✅ |
+| Full Stack Development | ✅ |
+| Automation using Bash | 🚀 |
+| Python Automation | 🚀 |
+| Docker | 📖 Learning |
+| Kubernetes | 📖 Learning |
+| Terraform | 📖 Learning |
+| Jenkins | 📖 Learning |
+
+</div>
+
+---
+
+# 📚 Learning Journey
+
+```text
+Linux Administration      ███████████████████
+
+Networking                ██████████████████
+
+AWS Cloud                 ███████████████░░
+
+React                     ███████████████░░
+
+Node.js                   █████████████░░░
+
+Python                    ████████████░░░░
+
+Docker                    ███████░░░░░░░░░
+
+Kubernetes                ████░░░░░░░░░░░░
+
+Terraform                 ███░░░░░░░░░░░░░
+
+DevOps                    ███░░░░░░░░░░░░░
+```
+
+---
+
+# 🌍 What I Love Working On
+
+<div align="center">
+
+☁ Cloud Infrastructure
+
+🐧 Linux Servers
+
+🌐 Computer Networks
+
+⚡ Infrastructure Automation
+
+🌍 Website Hosting
+
+🔒 Secure Server Deployment
+
+📧 Enterprise Email Solutions
+
+💻 Full Stack Development
+
+📊 Database Administration
+
+📈 Performance Optimization
+
+</div>
+
+---
+
+# 🎖 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco_CCNA-Certified-red?style=for-the-badge&logo=cisco"/>
+
+<img src="https://img.shields.io/badge/RHCSA-Training-red?style=for-the-badge&logo=redhat"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Learning-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+> "Technology isn't just about writing code.
+>
+> It's about building reliable systems, automating repetitive work,
+> solving real-world infrastructure problems, and continuously learning."
+
+---
+
+<div align="center">
+
+## 🚀 Building Today for Tomorrow's Cloud
 
 </div>
 
