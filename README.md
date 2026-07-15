@@ -1730,3 +1730,161 @@ Repeat."
 </div>
 
 ---
+<!-- ========================================================== -->
+<!--                CERTIFICATIONS & GOALS                      -->
+<!-- ========================================================== -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="35"> Certifications
+
+<div align="center">
+
+| Certification | Status |
+|---------------|--------|
+| Cisco Certified Network Associate (CCNA 200-301) | ✅ Completed |
+| RHCSA Training | ✅ Completed |
+| AWS Cloud Learning Journey | 🚀 In Progress |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+```text
+
+          CURRENTLY LEARNING
+
+        ☁ AWS Cloud Computing
+
+      🐳 Docker Containers
+
+   ☸ Kubernetes Orchestration
+
+ Terraform Infrastructure as Code
+
+ GitHub Actions & CI/CD Pipelines
+
+ Production Linux Administration
+
+ Python & Bash Automation
+
+```
+
+</div>
+
+---
+
+# 🌟 Career Objective
+
+> To become a highly skilled **Cloud & Infrastructure Engineer**
+> specializing in **Linux Administration**, **AWS Cloud**, **Automation**,
+> and **DevOps**, while building scalable and secure systems.
+
+---
+
+# 📖 What I'm Learning Right Now
+
+- ☁ Amazon Web Services (AWS)
+- 🐧 Advanced Linux Administration
+- 🐳 Docker
+- ☸ Kubernetes
+- 🌍 Infrastructure as Code (Terraform)
+- 🔄 GitHub Actions
+- 🚀 CI/CD Pipelines
+- 🐍 Python Automation
+- 📜 Bash Scripting
+
+---
+
+# 💬 Ask Me About
+
+<div align="center">
+
+🐧 Linux Administration
+
+☁ AWS
+
+🌐 Networking
+
+🔐 DNS & SSL
+
+🌍 Website Hosting
+
+📧 Email Hosting
+
+⚡ Apache Web Server
+
+🗄 MySQL
+
+⚛ React
+
+🟢 Node.js
+
+🍃 MongoDB
+
+🐍 Python
+
+📜 Bash
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shivraj-bhilare">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shivrajbhilare5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shivrajbhilare">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+> **"Great infrastructure is invisible.
+> It quietly keeps everything running."**
+
+</div>
+
+---
+
+# ❤️ Support
+
+If you like my work and repositories,
+
+⭐ Star my repositories
+
+🍴 Fork interesting projects
+
+🤝 Connect with me on LinkedIn
+
+💬 Let's build something amazing together.
+
+---
+
+<div align="center">
+
+# 🚀 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,50:700000,100:ff0000&section=footer"/>
+
+</div>
+
+<!-- ========================================================== -->
+<!--                       END OF README                        -->
+<!-- ========================================================== -->
