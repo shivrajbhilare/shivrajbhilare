@@ -1347,3 +1347,386 @@ Documentation               ██████████████░░
 </div>
 
 ---
+<!-- ========================================================== -->
+<!--                 LINUX TERMINAL DASHBOARD                   -->
+<!-- ========================================================== -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35"> Linux Terminal
+
+<div align="center">
+
+```bash
+
+Last login: Today
+
+root@shivraj:~$ whoami
+
+Shivraj Bhilare
+
+---------------------------------------------------
+
+Role        : Linux System Administrator
+
+Location    : India
+
+Cloud       : AWS
+
+Networking  : Cisco CCNA
+
+Experience  : Linux Hosting Infrastructure
+
+Status      : Available for Cloud Opportunities
+
+---------------------------------------------------
+
+root@shivraj:~$
+
+```
+
+</div>
+
+---
+
+# 🖥 neofetch
+
+```bash
+
+root@shivraj:~$ neofetch
+
+                   -`
+                  .o+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:
+             `/:-:++oooo+:
+            `/++++/+++++++:
+           `/++++++++++++++:
+          `/+++ooooooooooooo/
+         ./ooosssso++osssssso+
+        .oossssso-````/ossssss+
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+
+-----------------------------------------------------
+
+User        : shivraj
+
+OS          : Ubuntu Linux
+
+Kernel      : Linux
+
+Shell       : bash
+
+Terminal    : GitHub README
+
+Editor      : VS Code
+
+Server      : Apache
+
+Database    : MySQL
+
+Cloud       : AWS
+
+Network     : CCNA
+
+Languages   : Python
+              Bash
+              JavaScript
+              C++
+
+Frontend    : React
+
+Backend     : Node.js
+
+-----------------------------------------------------
+
+```
+
+---
+
+# ⚙ System Status
+
+```bash
+
+root@shivraj:~$ systemctl status career.service
+
+● career.service
+
+Loaded: loaded
+
+Active: active (running)
+
+Linux Administration       ✔ Running
+
+Cloud Computing            ✔ Running
+
+Networking                 ✔ Running
+
+React Development          ✔ Running
+
+Backend Development        ✔ Running
+
+Learning AWS               ✔ Running
+
+Learning Docker            ⏳ In Progress
+
+Learning Kubernetes        ⏳ In Progress
+
+Learning Terraform         ⏳ In Progress
+
+Memory Usage               Stable
+
+CPU Usage                  Optimized
+
+System Health              Excellent
+
+```
+
+---
+
+# 📂 ls -la ~/skills
+
+```bash
+
+drwxr-xr-x Linux
+
+drwxr-xr-x AWS
+
+drwxr-xr-x Networking
+
+drwxr-xr-x React
+
+drwxr-xr-x NodeJS
+
+drwxr-xr-x MongoDB
+
+drwxr-xr-x Bash
+
+drwxr-xr-x Python
+
+drwxr-xr-x Apache
+
+drwxr-xr-x MySQL
+
+drwxr-xr-x Git
+
+drwxr-xr-x GitHub
+
+```
+
+---
+
+# 📂 tree ~/career
+
+```text
+
+Career
+
+├── Linux Administration
+
+│      ├── Ubuntu
+
+│      ├── RHEL
+
+│      ├── Apache
+
+│      ├── SSH
+
+│      ├── DNS
+
+│      ├── SSL
+
+│      ├── MySQL
+
+│      ├── Hosting
+
+│      └── Email Infrastructure
+
+│
+
+├── Cloud
+
+│      ├── EC2
+
+│      ├── IAM
+
+│      ├── S3
+
+│      ├── VPC
+
+│      ├── CloudWatch
+
+│      ├── Lambda
+
+│      ├── CloudFormation
+
+│      ├── Route53
+
+│      ├── ECS
+
+│      └── Docker
+
+│
+
+├── Networking
+
+│      ├── Routing
+
+│      ├── Switching
+
+│      ├── VLAN
+
+│      ├── OSPF
+
+│      ├── EIGRP
+
+│      ├── ACL
+
+│      ├── NAT
+
+│      └── DNS
+
+│
+
+└── Development
+
+       ├── React
+
+       ├── Node.js
+
+       ├── Express
+
+       ├── MongoDB
+
+       ├── Python
+
+       ├── Bash
+
+       └── JavaScript
+
+```
+
+---
+
+# 🔍 Current Services
+
+```bash
+
+root@shivraj:~$ service --status-all
+
+[ + ] Apache
+
+[ + ] SSH
+
+[ + ] DNS
+
+[ + ] SSL
+
+[ + ] MySQL
+
+[ + ] Hosting
+
+[ + ] Monitoring
+
+[ + ] AWS
+
+[ + ] Learning
+
+```
+
+---
+
+# 📊 Resource Monitor
+
+```text
+
+CPU Usage
+
+████████████████░░░░░░
+
+RAM Usage
+
+█████████████░░░░░░░░░
+
+Disk Usage
+
+██████████████████░░░░
+
+Linux Skills
+
+██████████████████████
+
+Networking
+
+███████████████████░░░
+
+AWS
+
+████████████████░░░░░░
+
+Python
+
+██████████████░░░░░░░░
+
+Bash
+
+████████████████░░░░░░
+
+```
+
+---
+
+# 📜 uptime
+
+```bash
+
+root@shivraj:~$ uptime
+
+Career Uptime :
+
+Learning Linux
+
+Learning AWS
+
+Building Projects
+
+Helping Clients
+
+Exploring Cloud
+
+Never Stopping.
+
+```
+
+---
+
+# 🧠 Motto
+
+```bash
+
+root@shivraj:~$ echo
+
+"Learn.
+
+Build.
+
+Automate.
+
+Repeat."
+
+```
+
+---
+
+<div align="center">
+
+## 🐧 Powered by Linux • Built for Cloud • Driven by Curiosity
+
+</div>
+
+---
