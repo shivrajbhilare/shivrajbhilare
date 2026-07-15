@@ -1,29 +1,25 @@
-<!-- ========================================================== -->
-<!--                    SHIVRAJ BHILARE                         -->
-<!--           Linux • AWS • Cloud • Cyber Security            -->
-<!-- ========================================================== -->
+<!-- ========================================================= -->
+<!--                 SHIVRAJ BHILARE                           -->
+<!--        Linux • AWS • Cloud • DevOps • Security            -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,40:500000,75:990000,100:ff0000&text=Shivraj%20Bhilare&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Linux%20System%20Administrator%20%7C%20AWS%20Cloud%20Engineer%20%7C%20Infrastructure%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,40:450000,70:9b0000,100:ff0000&text=Shivraj%20Bhilare&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Linux%20System%20Administrator%20%7C%20AWS%20Cloud%20Engineer%20%7C%20Infrastructure%20Engineer&descAlignY=60"/>
 
 </div>
 
 <div align="center">
 
-# Hi there 👋 I'm Shivraj Bhilare
+# 👋 Hi, I'm Shivraj Bhilare
 
-### Linux System Administrator • AWS Cloud Enthusiast • Infrastructure Engineer
+### Linux System Administrator • AWS Cloud Engineer • Infrastructure Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=900&color=FF0000&lines=Linux+System+Administrator;AWS+Cloud+Engineer;Infrastructure+Automation;Network+Engineer+(CCNA);React+%7C+Node+%7C+Express+Developer;Python+%7C+Bash+Automation;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Linux+System+Administrator;AWS+Cloud+Engineer;Infrastructure+Automation;Network+Engineer+(CCNA);Python+%7C+Bash+Automation;React+%7C+Node+Developer;Always+Learning+New+Technologies"/>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shivrajbhilare&label=Profile+Views&style=for-the-badge&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=shivrajbhilare&label=Profile%20Views&style=for-the-badge&color=red"/>
 
 <img src="https://img.shields.io/github/followers/shivrajbhilare?style=for-the-badge&logo=github&color=red"/>
 
@@ -35,77 +31,52 @@
 
 # 💻 About Me
 
-```yaml
+```bash
 root@shivraj:~$ profile
 
 Name        : Shivraj Bhilare
 
 Role        : Linux System Administrator
 
+Location    : India
+
 Cloud       : AWS
 
-Server      : Ubuntu | RHEL
+Operating System
+            : Ubuntu | RHEL
 
 Automation  : Bash | Python
 
-Focus       : Cloud Infrastructure
+Development : React | Node.js
 
-Status      : Available
+Focus       : Cloud Infrastructure
+              Linux Administration
+              Infrastructure Automation
+
+Status      : Available for Cloud & DevOps Opportunities 🚀
 ```
 
 ---
 
 ## 🚀 Professional Summary
 
-I am a **Linux System Administrator** with hands-on experience managing production hosting environments, Linux servers, DNS, SSL, email infrastructure, and web hosting platforms.
+Linux System Administrator with hands-on experience managing **Linux hosting infrastructure**, **DNS**, **SSL**, **email services**, **Apache**, **WHM/cPanel**, **Webuzo**, and **AWS Cloud**.
 
-I enjoy solving infrastructure problems, automating repetitive tasks, and building secure, scalable systems on Linux and AWS.
-
-Alongside infrastructure engineering, I also build modern full-stack applications using the MERN stack and continuously explore Cloud, DevOps, and Cyber Security technologies.
+I enjoy building secure and reliable infrastructure, automating repetitive tasks, troubleshooting production environments, and continuously improving my skills in Cloud Computing, DevOps, and Infrastructure Engineering.
 
 ---
 
-# 🖥 Terminal
-
-```bash
-root@github:~$ whoami
-
-Shivraj Bhilare
-
-Role        : Linux System Administrator
-
-Cloud       : AWS
-
-OS          : Ubuntu | RHEL
-
-Server      : Apache
-
-Database    : MySQL | MongoDB
-
-Automation  : Bash | Python
-
-Frontend    : React
-
-Backend     : Node.js
-
-Current Goal:
-
-Become a Cloud & DevOps Engineer 🚀
-```
-
----
-
-# ⚡ Tech Stack
+# ⚔ Tech Arsenal
 
 <div align="center">
 
-### ☁ Cloud
+## ☁ Cloud
 
 <img src="https://skillicons.dev/icons?i=aws"/>
 
 ---
 
-### 🐧 Linux & Infrastructure
+## 🐧 Linux & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=linux,bash"/>
 
@@ -121,7 +92,7 @@ Become a Cloud & DevOps Engineer 🚀
 
 ---
 
-### 🌐 Networking
+## 🌐 Networking
 
 <img src="https://img.shields.io/badge/CCNA-Cisco-red?style=for-the-badge&logo=cisco"/>
 
@@ -133,236 +104,290 @@ Become a Cloud & DevOps Engineer 🚀
 
 ---
 
-### 💻 Programming
+## 💻 Development
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash"/>
-
----
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,mysql"/>
 
 ---
 
-### ⚙ Backend
+## ⚡ Automation & Tools
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
----
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
----
-
-### 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,bash"/>
 
 </div>
 
 ---
 
-# 🎯 Core Expertise
-
-| Domain | Skills |
-|---------|--------|
-| 🐧 Linux | Ubuntu, RHEL, SSH, Apache, Hosting |
-| ☁ AWS | EC2, IAM, VPC, S3, Route53 |
-| 🌐 Networking | DNS, TCP/IP, VLAN, NAT, CCNA |
-| 🔐 Security | SSL, Firewalls, SSH Hardening |
-| 📧 Email | Google Workspace, Microsoft 365, SMTP |
-| 💻 Development | React, Node.js, Express, MongoDB |
-
----
-
-# 💼 Professional Experience
-
-## 🐧 Linux System Administrator
-
-> Managing Linux hosting infrastructure, cloud services, and enterprise email solutions.
-
-### 🔹 Key Responsibilities
-
-- 🖥 Managing Ubuntu & RHEL production servers
-- 🌐 Website hosting using WHM/cPanel & Webuzo
-- 🔒 SSL Certificate installation & renewal
-- 🌍 DNS Management (A, MX, TXT, SPF, DKIM, DMARC, CNAME)
-- 📧 Google Workspace & Microsoft 365 Administration
-- 📬 SMTP, IMAP & POP3 Email Configuration
-- ⚙ Apache Web Server Administration
-- 🗄 MySQL Database Administration
-- 🚀 Website Migration & Deployment
-- 📊 Server Monitoring & Performance Optimization
-- 🔐 Secure Remote Administration using SSH & SCP
-- 💾 Backup & Disaster Recovery
-
----
-
-# ☁ Infrastructure Expertise
+# ☁ Infrastructure Overview
 
 ```text
-                     Internet
-                         │
-               ───────────────────
-                         │
-                  Domain & DNS
-                         │
-                  SSL / HTTPS
-                         │
-                Apache Web Server
-                         │
-              Ubuntu / RHEL Servers
-                         │
-      SSH • MySQL • Email • Hosting
-                         │
-        Monitoring • Backup • Security
+                      🌍 Internet
+                           │
+                    Domain & DNS
+                           │
+                     SSL / HTTPS
+                           │
+                   Apache Web Server
+                           │
+                Ubuntu / RHEL Linux
+                           │
+      SSH • MySQL • Email • Website Hosting
+                           │
+          Monitoring • Backup • Automation
 ```
 
 ---
 
-# 🏆 Professional Highlights
+# 🏆 Core Expertise
 
-| Achievement | Description |
-|--------------|-------------|
-| 🐧 Linux Administration | Managed Ubuntu & RHEL hosting environments |
-| 🌐 Hosting | Website deployment using WHM/cPanel & Webuzo |
-| 🔐 Security | SSL installation, DNS records & email security |
-| ☁ Cloud | Hands-on experience with AWS services |
-| 📧 Email | Google Workspace & Microsoft 365 administration |
-| 🚀 Optimization | Server monitoring & performance tuning |
+<div align="center">
+
+| 🐧 Linux | ☁ Cloud | 🌐 Networking |
+|----------|----------|---------------|
+| Ubuntu | AWS EC2 | TCP/IP |
+| RHEL | IAM | DNS |
+| Apache | VPC | SSL |
+| SSH | S3 | CCNA |
+| Hosting | Route53 | Firewalls |
+
+---
+
+| ⚡ Automation | 💻 Development | 📧 Email |
+|--------------|----------------|----------|
+| Bash | React | Google Workspace |
+| Python | Node.js | Microsoft 365 |
+| Cron Jobs | Express | SMTP |
+| Git | MongoDB | IMAP / POP3 |
+
+</div>
+
+---
+# 💼 Professional Experience
+
+<div align="center">
+
+## 🐧 Linux System Administrator
+
+*Managing Linux hosting infrastructure, enterprise email solutions, DNS services, SSL certificates, and AWS cloud environments.*
+
+</div>
+
+---
+
+## 🔹 Responsibilities
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 🖥 Linux Administration
+
+- Ubuntu & RHEL Server Management
+- SSH Administration
+- Apache Configuration
+- Package Management
+- System Updates & Security
+- Performance Optimization
+
+</td>
+
+<td width="50%">
+
+### 🌐 Web Hosting
+
+- WHM/cPanel
+- Webuzo
+- Website Migration
+- Virtual Hosts
+- Domain Configuration
+- Production Deployments
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🔐 Security
+
+- SSL Installation
+- Firewall Configuration
+- SSH Hardening
+- DNS Security
+- Email Security
+- Backup Strategy
+
+</td>
+
+<td>
+
+### 📧 Email Administration
+
+- Google Workspace
+- Microsoft 365
+- SMTP
+- IMAP
+- POP3
+- SPF / DKIM / DMARC
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ☁ Infrastructure Architecture
+
+```text
+
+                   🌍 INTERNET
+                        │
+        ─────────────────────────────────
+                        │
+                 Domain & DNS
+                        │
+                SSL Encryption
+                        │
+               Apache Web Server
+                        │
+           Ubuntu / RHEL Linux Server
+                        │
+      SSH │ MySQL │ Email │ Hosting
+                        │
+        Monitoring • Backup • Security
+
+```
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 ## 🧑‍💻 AwakenCoder
 
-> **Online Code Editor**
+### Multi-Language Online Code Editor
 
-**Tech Stack**
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript"/>
-</p>
+Modern browser-based IDE supporting multiple programming languages using **Judge0 API**.
 
-### Highlights
+✨ Features
 
-- 💻 Multi-language code execution
-- ⚡ Judge0 API integration
-- 🎨 Syntax highlighting
-- 💾 Local storage support
-- 📱 Responsive UI
-- 🚀 Fast compilation
+- ⚡ Real-time Code Execution
+- 🎨 Syntax Highlighting
+- 💾 Local Storage
+- 🌙 Dark Theme
+- 📱 Responsive Design
+- 🚀 Fast Compilation
 
 ---
 
 ## 🎙 TalkSpace
 
-> **Real-Time Voice Chat Platform**
+### Real-Time Voice Communication Platform
 
-**Tech Stack**
-
-<p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-</p>
 
-### Highlights
+A WebRTC-powered voice communication platform designed for seamless real-time conversations.
 
-- 🔊 Live voice rooms
-- 🌐 WebRTC communication
-- 👥 Public & private rooms
-- 🔐 Authentication
-- ⚡ Real-time messaging
+✨ Features
+
+- 🎤 Voice Rooms
+- 🌐 WebRTC
+- 🔒 Authentication
+- 👥 Public & Private Rooms
+- ⚡ Real-time Communication
 
 ---
 
 ## 🩺 Predictive Healthcare Analytics
 
-> **Machine Learning Based Disease Prediction**
+### Machine Learning Based Disease Prediction
 
-**Tech Stack**
-
-<p>
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript"/>
-</p>
 
-### Highlights
+Machine Learning powered healthcare application capable of predicting multiple diseases.
 
-- 🤖 Machine Learning integration
-- ❤️ Disease prediction
-- 📊 Interactive dashboard
-- 📈 Health reports
-- 📱 Responsive design
+✨ Features
+
+- 🤖 ML Models
+- ❤️ Disease Prediction
+- 📊 Dashboard
+- 📈 Reports
+- 📱 Responsive Interface
 
 ---
 
 ## 💼 MERN Job Portal
 
-**Tech Stack**
+### Full Stack Recruitment Platform
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-</p>
 
-### Features
+Recruitment platform developed using the MERN stack.
 
-- User Authentication
-- Admin Dashboard
-- Resume Upload
-- Job Search
-- CRUD Operations
-- JWT Authentication
+✨ Features
+
+- 👨 User Authentication
+- 📄 Resume Upload
+- 🔍 Job Search
+- 📊 Admin Dashboard
+- 🔐 JWT Authentication
 
 ---
 
 ## 🚗 Rental Car Website
 
-**Tech Stack**
+### Responsive Frontend Application
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-</p>
 
-### Features
+Responsive vehicle rental interface focused on clean UI and user experience.
 
-- Responsive Design
-- Vehicle Listings
-- Booking Interface
-- Modern UI
-- Cross-browser Support
+✨ Features
 
----
-
-# 📌 Current Focus
-
-<div align="center">
-
-| Technology | Progress |
-|------------|----------|
-| ☁ AWS Cloud | 🚀 Learning |
-| 🐳 Docker | 📖 Learning |
-| ☸ Kubernetes | 📖 Learning |
-| Terraform | 📖 Learning |
-| GitHub Actions | 📖 Learning |
-| Python Automation | 🚀 Building |
+- 🚘 Vehicle Listings
+- 📅 Booking Interface
+- 📱 Responsive Design
+- 🎨 Modern UI
+- ⚡ Fast Loading
 
 </div>
 
 ---
 
+# 📌 What I'm Working On
+
 <div align="center">
 
-### 🚀 *Building reliable infrastructure, automating workflows, and continuously learning cloud technologies.*
+| 🚀 Building | 📚 Learning |
+|-------------|-------------|
+| Linux Infrastructure | Docker |
+| Bash Automation | Kubernetes |
+| Python Automation | Terraform |
+| AWS Projects | GitHub Actions |
+| Production Hosting | CI/CD Pipelines |
 
 </div>
 
 ---
-# 📊 GitHub Analytics
+
+# 💡 Engineering Philosophy
+
+> **"Reliable infrastructure isn't built by chance—it's built through automation, security, monitoring, and continuous improvement."**
+
+---
+# 📊 Developer Dashboard
 
 <div align="center">
+
+### ⚡ GitHub Statistics
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivrajbhilare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
@@ -372,9 +397,9 @@ Become a Cloud & DevOps Engineer 🚀
 
 ---
 
-# 🔥 GitHub Streak
-
 <div align="center">
+
+### 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=shivrajbhilare&theme=tokyonight&hide_border=true"/>
 
@@ -382,9 +407,9 @@ Become a Cloud & DevOps Engineer 🚀
 
 ---
 
-# 📈 Contribution Graph
-
 <div align="center">
+
+### 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivrajbhilare&theme=tokyo-night&hide_border=true"/>
 
@@ -392,71 +417,88 @@ Become a Cloud & DevOps Engineer 🚀
 
 ---
 
-# 🏆 GitHub Achievements
+# 🌱 Learning Roadmap
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivrajbhilare&theme=algolia&no-frame=true&row=1&column=6"/>
+| Technology | Progress |
+|------------|----------|
+| ☁ AWS Cloud | █████████░ 90% |
+| 🐳 Docker | ███████░░░ 70% |
+| ☸ Kubernetes | █████░░░░░ 50% |
+| 🌍 Terraform | ████░░░░░░ 40% |
+| ⚙ GitHub Actions | █████░░░░░ 50% |
+| 🔄 CI/CD | █████░░░░░ 50% |
+| 🐍 Python Automation | ████████░░ 80% |
+| 📜 Bash Scripting | █████████░ 90% |
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏅 Certifications
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivrajbhilare/shivrajbhilare/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://img.shields.io/badge/CCNA-Completed-red?style=for-the-badge&logo=cisco"/>
 
-</div>
+<img src="https://img.shields.io/badge/RHCSA-Training-red?style=for-the-badge&logo=redhat"/>
 
-> **Note:** Enable the GitHub Action to automatically generate the snake animation.
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| Technology | Status |
-|-------------|--------|
-| ☁️ AWS Cloud | 🚀 Active |
-| 🐳 Docker | 📖 Learning |
-| ☸ Kubernetes | 📖 Learning |
-| 🌍 Terraform | 📖 Learning |
-| ⚙ GitHub Actions | 📖 Learning |
-| 🔄 CI/CD | 📖 Learning |
-| 🐍 Python Automation | 🚀 Building |
-| 📜 Bash Scripting | 🚀 Building |
+<img src="https://img.shields.io/badge/AWS-Currently%20Learning-orange?style=for-the-badge&logo=amazonaws"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🛠 Daily Workflow
 
-- ☁️ Earn AWS Solutions Architect Associate
-- 🐧 Master Linux System Administration
-- 🐳 Deploy containerized applications using Docker
-- ☸ Learn Kubernetes orchestration
-- 🌍 Build Infrastructure as Code with Terraform
-- ⚙ Create CI/CD pipelines using GitHub Actions
-- 🚀 Deploy production-grade cloud applications
-- 🤝 Contribute to open source projects
+```text
+          Coffee ☕
+              │
+              ▼
+      Linux Administration
+              │
+              ▼
+      Infrastructure Support
+              │
+              ▼
+     AWS Cloud Services
+              │
+              ▼
+     Automation (Bash/Python)
+              │
+              ▼
+       Learn Something New
+              │
+              ▼
+        Push to GitHub 🚀
+```
 
 ---
 
-# 🎖 Certifications & Learning
+# 📌 Current Mission
 
-<div align="center">
+```bash
+root@career:~$ mission
 
-| Certification | Status |
-|----------------|--------|
-| Cisco CCNA | ✅ Completed |
-| RHCSA Training | ✅ Completed |
-| AWS Cloud | 🚀 In Progress |
+✔ Build production-grade Linux infrastructure
 
-</div>
+✔ Master AWS Cloud Services
+
+✔ Learn Docker & Kubernetes
+
+✔ Automate repetitive tasks using Bash & Python
+
+✔ Contribute to Open Source
+
+✔ Become a DevOps Engineer
+```
+
+---
+
+# ⚡ Tech Philosophy
+
+> **"Automation beats repetition. Monitoring beats guessing. Security is never optional."**
 
 ---
 
@@ -464,18 +506,24 @@ Become a Cloud & DevOps Engineer 🚀
 
 <div align="center">
 
-🐧 Linux Administration • ☁️ AWS Cloud • 🌐 Networking • 🔐 DNS & SSL
+🐧 Linux Administration • ☁ AWS Cloud • 🌐 Networking
 
-⚡ Infrastructure Automation • 💻 MERN Stack • 🐍 Python • 📜 Bash
+🔐 DNS & SSL • 📧 Email Infrastructure
+
+⚙ Bash Automation • 🐍 Python
+
+💻 React • Node.js • MongoDB
 
 </div>
 
+---
 ---
 
 # 🤝 Let's Connect
 
 <div align="center">
 
+<p>
 <a href="https://www.linkedin.com/in/shivraj-bhilare">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -485,8 +533,58 @@ Become a Cloud & DevOps Engineer 🚀
 </a>
 
 <a href="https://github.com/shivrajbhilare">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
+
+</div>
+
+---
+
+# 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/shivrajbhilare/AwakenCoder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajbhilare&repo=AwakenCoder&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/shivrajbhilare/TalkSpace">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajbhilare&repo=TalkSpace&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br>
+
+<a href="https://github.com/shivrajbhilare/MERN-Job-Portal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajbhilare&repo=MERN-Job-Portal&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/shivrajbhilare/Predictive-Healthcare-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajbhilare&repo=Predictive-Healthcare-Analytics&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+> **Note:** If your repository names are different, update the `repo=` value accordingly.
+
+---
+
+# 🌍 Open Source & Collaboration
+
+<div align="center">
+
+🚀 Always interested in collaborating on
+
+☁ Cloud Infrastructure
+
+🐧 Linux Administration
+
+⚙ DevOps Automation
+
+🐍 Python & Bash Utilities
+
+🌐 Open Source Projects
 
 </div>
 
@@ -496,7 +594,33 @@ Become a Cloud & DevOps Engineer 🚀
 
 <div align="center">
 
-> ### *"Building reliable infrastructure today for a smarter cloud tomorrow."*
+> **"The best infrastructure is the one users never notice—because it's always available, secure, and reliable."**
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+```text
+──────────────────────────────────────────────
+
+👨‍💻 Linux System Administrator
+
+☁ AWS Cloud Enthusiast
+
+🌐 Infrastructure Engineer
+
+⚙ Automation Learner
+
+🔐 Security Focused
+
+🚀 Future DevOps Engineer
+
+──────────────────────────────────────────────
+```
 
 </div>
 
@@ -504,10 +628,14 @@ Become a Cloud & DevOps Engineer 🚀
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thank you for visiting my profile!
 
-### If you like my work, don't forget to ⭐ my repositories.
+If you found any of my projects interesting, consider giving them a ⭐.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:7a0000,100:ff0000"/>
+Let's build secure, scalable, and reliable infrastructure together.
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050505,40:450000,70:9b0000,100:ff0000"/>
 
 </div>
