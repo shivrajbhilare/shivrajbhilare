@@ -8,16 +8,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Linux+System+Administrator;AWS+Cloud+Engineer;Network+Engineer+(CCNA);Building+Reliable+Infrastructure;React+%7C+Node+%7C+Express+%7C+MongoDB"/>
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=shivrajbhilare&label=Profile%20Views&color=red&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/shivrajbhilare?style=for-the-badge&logo=github&color=red"/>
 
 </div>
 
----
+<br/>
 
 ## 👋 About Me
 
-I'm a **Linux System Administrator** focused on building reliable, secure, and scalable infrastructure — Linux hosting environments, DNS/email systems, SSL security, and networking. I'm currently deepening my AWS Cloud expertise while also building full-stack applications with the MERN stack.
+<div align="center">
+
+I'm a **Linux System Administrator** focused on building reliable, secure, and scalable infrastructure — Linux hosting environments, DNS/email systems, SSL security, and networking. Currently deepening my AWS Cloud expertise while also building full-stack applications with the MERN stack.
+
+</div>
 
 - 🐧 Managing Linux hosting environments (Ubuntu, RHEL) with WHM/cPanel & Webuzo
 - ☁️ Learning AWS Cloud and working toward a Cloud/DevOps Engineer role
@@ -25,39 +31,50 @@ I'm a **Linux System Administrator** focused on building reliable, secure, and s
 - ⚛️ Building full-stack apps with React, Node.js, Express, and MongoDB
 - 🎯 2026 goals: Docker, Kubernetes, Terraform, Jenkins, CI/CD
 
----
+<br/>
 
 ## 🛠 Tech Stack
 
-**Cloud & Infra**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
-</p>
+<div align="center">
+
+**Cloud & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" height="45"/>
+<br/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" height="28"/>
+
+<br/><br/>
 
 **Networking**
-<p>
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/TCP/IP-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/DNS-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/VLAN%20%7C%20OSPF%20%7C%20NAT-red?style=flat-square"/>
-</p>
+
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-D32F2F?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/DNS-F57C00?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/VLAN%20%7C%20OSPF%20%7C%20NAT-D32F2F?style=flat-square" height="28"/>
+
+<br/><br/>
 
 **Development**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,python,cpp,javascript,git,github,vscode"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,python,cpp,javascript,git,github,vscode" height="45"/>
+
+</div>
+
+<br/>
 
 **AWS Services**
 
-| Compute | Storage | Networking | Database | Ops |
-|---|---|---|---|---|
-| EC2, Lambda, ECS | S3, EBS, EFS | VPC, Route53, ELB | RDS, DynamoDB | CloudWatch, CloudFormation |
-| Elastic Beanstalk | Glacier | NAT, IGW, ACL | | IAM, SNS |
+| Category | Services |
+|---|---|
+| Compute | EC2, Lambda, ECS, Elastic Beanstalk |
+| Storage | S3, EBS, EFS, Glacier |
+| Networking | VPC, Route53, ELB, NAT, IGW, ACL |
+| Database | RDS, DynamoDB |
+| Ops & Identity | CloudWatch, CloudFormation, IAM, SNS |
 
----
+<br/>
 
 ## 💼 Experience
 
@@ -68,25 +85,53 @@ I'm a **Linux System Administrator** focused on building reliable, secure, and s
 - Ran Google Workspace and Microsoft 365 administration for clients
 
 **Security Analyst Intern** — Intrianz Pvt Ltd (2023)
+
 **Web Development Intern** — Sumago Infotech (2021)
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-### [AwakenCoder](https://github.com/shivrajbhilare) — Online Code Editor
-Multi-language code editor with real-time compilation via Judge0 API.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥 AwakenCoder
+Online code editor with multi-language execution via the Judge0 API.
+
 `React` `Node.js` `Express` `MongoDB`
 
-### Predictive Healthcare Analytics
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Predictive Healthcare Analytics
 ML-powered app predicting diseases from patient data with a dashboard UI.
+
 `Python` `HTML/CSS/JS` `Machine Learning`
 
-### TalkSpace — Voice Chat Platform
-Real-time public/private voice rooms using WebRTC.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙 TalkSpace
+Real-time public/private voice chat rooms built on WebRTC.
+
 `React` `Node.js` `Socket.IO` `WebRTC` `MongoDB`
 
----
+</td>
+<td width="50%" valign="top">
+
+### 💼 MERN Job Portal
+Recruitment platform with employer dashboards and resume uploads.
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -95,21 +140,31 @@ Real-time public/private voice rooms using WebRTC.
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shivrajbhilare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajbhilare&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=shivrajbhilare&theme=tokyonight&hide_border=true"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivrajbhilare&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
----
+<br/>
 
 ## 🎖 Certifications
 
-- ✅ Cisco Certified Network Associate (CCNA 200-301)
-- ✅ RHCSA Training
-- 🚀 AWS Cloud — In Progress
+<div align="center">
 
----
+| Certification | Status |
+|:---|:---:|
+| Cisco Certified Network Associate (CCNA 200-301) | ✅ Completed |
+| RHCSA Training | ✅ Completed |
+| AWS Cloud | 🚀 In Progress |
+
+</div>
+
+<br/>
 
 ## 🤝 Connect With Me
 
