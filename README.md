@@ -768,3 +768,388 @@ DevOps                    ███░░░░░░░░░░░░░
 </div>
 
 ---
+
+<!-- ========================================================== -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================== -->
+
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Featured Projects
+
+---
+
+## 🚀 AwakenCoder — Online Code Editor
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Project-Web%20Application-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Type-Full%20Stack-blue?style=for-the-badge"/>
+
+</div>
+
+### 📌 Overview
+
+AwakenCoder is an online code editor built to provide developers with an interactive coding environment supporting multiple programming languages through Judge0 API integration.
+
+---
+
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+### ✨ Features
+
+- Multi-language Code Execution
+- Judge0 API Integration
+- Syntax Highlighting
+- Code Templates
+- Beautiful UI
+- Real-time Compilation
+- Responsive Design
+- Fast Execution
+
+---
+
+```text
+                USER
+
+                 │
+
+          React Frontend
+
+                 │
+
+        Express + Node API
+
+                 │
+
+          Judge0 Compiler
+
+                 │
+
+            Output Result
+```
+
+---
+
+## 🩺 Predictive Healthcare Analytics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Enabled-red?style=for-the-badge"/>
+
+</div>
+
+### 📌 Overview
+
+A Machine Learning powered healthcare application capable of predicting diseases from patient data with an intuitive user interface.
+
+---
+
+### ⚙ Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
+
+---
+
+### ✨ Features
+
+- Disease Prediction
+- ML Integration
+- User Dashboard
+- Responsive Interface
+- Health Report Generation
+
+---
+
+```text
+User Input
+
+      │
+
+Machine Learning Model
+
+      │
+
+Prediction Engine
+
+      │
+
+Prediction Report
+```
+
+---
+
+## 🎙 TalkSpace — Voice Chat Platform
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WebRTC-Voice%20Calling-red?style=for-the-badge"/>
+
+</div>
+
+### 📌 Overview
+
+Real-time voice communication platform supporting secure public and private rooms.
+
+---
+
+### Technologies
+
+React
+
+Node.js
+
+Express
+
+MongoDB
+
+WebRTC
+
+Socket.IO
+
+---
+
+### Features
+
+- Live Voice Rooms
+
+- Private Rooms
+
+- Public Rooms
+
+- Authentication
+
+- Real-time Communication
+
+- Responsive UI
+
+---
+
+## 💼 MERN Job Portal
+
+### 📌 Overview
+
+A modern recruitment platform connecting employers and job seekers.
+
+---
+
+### Features
+
+- User Authentication
+
+- Company Dashboard
+
+- Resume Upload
+
+- Job Search
+
+- Admin Panel
+
+- CRUD Operations
+
+- Secure Login
+
+---
+
+### Stack
+
+React
+
+Node
+
+Express
+
+MongoDB
+
+JWT
+
+---
+
+## 🚗 Rental Car Website
+
+### Overview
+
+Modern responsive rental platform built using frontend technologies.
+
+---
+
+### Technologies
+
+HTML
+
+CSS
+
+JavaScript
+
+Bootstrap
+
+---
+
+### Features
+
+- Vehicle Listing
+
+- Booking UI
+
+- Responsive Layout
+
+- Modern Design
+
+---
+
+# ☁ AWS Hands-on Labs
+
+---
+
+## EC2
+
+✔ Launch Instances
+
+✔ Security Groups
+
+✔ Elastic IP
+
+✔ Key Pair
+
+✔ AMI
+
+✔ EBS
+
+---
+
+## VPC
+
+✔ Custom VPC
+
+✔ Public Subnet
+
+✔ Private Subnet
+
+✔ NAT Gateway
+
+✔ Internet Gateway
+
+✔ Route Tables
+
+---
+
+## IAM
+
+✔ Users
+
+✔ Groups
+
+✔ Roles
+
+✔ Policies
+
+✔ MFA
+
+---
+
+## Storage
+
+✔ Amazon S3
+
+✔ EBS
+
+✔ EFS
+
+✔ Glacier
+
+---
+
+## Databases
+
+✔ RDS
+
+✔ DynamoDB
+
+---
+
+## Monitoring
+
+✔ CloudWatch
+
+✔ SNS
+
+---
+
+## Serverless
+
+✔ Lambda
+
+---
+
+## Containers
+
+✔ ECS
+
+✔ ECR
+
+✔ Docker Fundamentals
+
+---
+
+## Infrastructure
+
+✔ CloudFormation
+
+---
+
+# 🚀 Currently Building
+
+☁ AWS Projects
+
+🐧 Linux Automation Scripts
+
+⚡ Bash Automation
+
+🐍 Python Utilities
+
+🌍 Hosting Automation
+
+📧 Email Infrastructure
+
+🔐 SSL Automation
+
+---
+
+<div align="center">
+
+## More exciting projects coming soon...
+
+⭐ Stay tuned ⭐
+
+</div>
+
+---
